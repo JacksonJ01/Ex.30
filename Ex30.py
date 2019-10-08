@@ -1,6 +1,6 @@
 # Jared Jackson
 # 10/08/19
-# This is Ex30, which informs us about elif statements
+# This is Ex30, which informs us about elif statements including if and else
 
 people = 30
 cars = 40
